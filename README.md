@@ -4,11 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         21 hrs 10 mins  █████████████████▒░░░░░░░   69.83 %
-TypeScript     4 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
-Bash           2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-JSON           1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Other          23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+From: 22 January 2024 - To: 29 January 2024
+
+Python         20 hrs 2 mins   █████████████████▒░░░░░░░   68.78 %
+TypeScript     4 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+Bash           2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+JSON           1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Markdown       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
