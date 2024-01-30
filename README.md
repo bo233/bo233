@@ -6,6 +6,8 @@
 ```txt
 From: 22 January 2024 - To: 29 January 2024
 
+Total Time: 29 hrs 3 mins
+
 Python         20 hrs 2 mins   █████████████████▒░░░░░░░   68.78 %
 TypeScript     4 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
 Bash           2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
