@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Last 7 days I spent my time on**
+**Last week I spent my time on**
 <!--START_SECTION:waka-->
 
 ```txt
