@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![profileview](https://komarev.com/ghpvc/?username=bo233)
+[![wakatime](https://wakatime.com/badge/user/018cb0e5-1559-4aa8-b3db-0d1aedf11b29.svg)](https://wakatime.com/@018cb0e5-1559-4aa8-b3db-0d1aedf11b29)
+
 **Last week I spent my time on**
 <!--START_SECTION:waka-->
 
