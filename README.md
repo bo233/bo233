@@ -8,6 +8,8 @@ I'm also familiar with GAN.
 
 You can find me on [Zhihu](https://www.zhihu.com/people/bo233) and [dblp](https://dblp.org/pid/331/1520.html).
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bo233&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 **Last week I spent my time on**
 <!--START_SECTION:waka-->
 
