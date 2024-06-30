@@ -14,11 +14,13 @@ You can find me on [Zhihu](https://www.zhihu.com/people/bo233) and [dblp](https:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2024 - To: 22 June 2024
+From: 22 June 2024 - To: 29 June 2024
 
-Total Time: 0 secs
+Total Time: 2 hrs 52 mins
 
-No activity tracked
+JavaScript   2 hrs 40 mins   ██████████████████████▒░░   89.89 %
+JSON         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Other        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
