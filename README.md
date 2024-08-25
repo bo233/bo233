@@ -14,7 +14,7 @@ You can find me on [Zhihu](https://www.zhihu.com/people/bo233) and [dblp](https:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2024 - To: 17 August 2024
+From: 17 August 2024 - To: 24 August 2024
 
 Total Time: 0 secs
 
