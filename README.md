@@ -14,14 +14,13 @@ You can find me on [Zhihu](https://www.zhihu.com/people/bo233) and [dblp](https:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2026 - To: 27 June 2026
+From: 27 June 2026 - To: 04 July 2026
 
-Total Time: 15 hrs 48 mins
+Total Time: 23 hrs 8 mins
 
-Python       14 hrs 8 mins         ██████████████████████░░░   87.81 %
-Markdown     48 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Bash         38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Other        18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Python       16 hrs 47 mins        ████████████████░░░░░░░░░   64.09 %
+Bash         4 hrs 56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
+Other        3 hrs 3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
 ```
 
 <!--END_SECTION:waka-->
